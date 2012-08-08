@@ -1,0 +1,5 @@
+{
+	"string",
+	0,
+	list("string", 1)
+}
